@@ -1,6 +1,7 @@
 // Q.8 WAP to check whether number is Armstrong or not
 #include<stdio.h>
 
+// counting the number of digits in the number
 int count(int n){
     int digit=0;
     while (n!=0)
